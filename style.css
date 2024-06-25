@@ -1,0 +1,30 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+div{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 3px;
+}
+input{
+    border-radius: 25px;
+    text-align: center;
+    border: none;
+    width: 500px;
+    height: 50px;
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    background-color: rgb(255, 212, 146);
+    font-family: 'Courier New', Courier, monospace;
+}
+button{
+    width: 200px;
+    height: 60px;
+    border-radius: 25px;
+    border: none;
+    font-size: 30px;
+    font-family:'Courier New', Courier, monospace;
+    background-color: rgb(255, 212, 146);
+}
